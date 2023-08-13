@@ -1,4 +1,4 @@
-### Hiiiiiiiiiiii
+### Hiiiiiiiiii 👋
 
 - Arch and Hyprland user
 - I know django (probably)
